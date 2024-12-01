@@ -1,4 +1,4 @@
-# Guess My Number
+# Guess The Number
 
 
 A simple number guessing game that is designed to have some fun.

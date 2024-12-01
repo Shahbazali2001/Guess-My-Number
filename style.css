@@ -127,3 +127,8 @@ h1 {
     padding: 1rem ;
     color: #eee;
 }
+
+.input {
+  margin-bottom: 2rem;
+  font-size: 2rem;
+}
